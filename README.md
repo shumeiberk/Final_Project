@@ -1,7 +1,8 @@
 # Final_Project: Coronavirus in the US
 
 # Sources
-- Excel: mask_us_by_county, us, us_cuonties, us_states (Data from The New York Times, based on reports from state and local health agencies)
+- Excel: mask_us_by_county, us, us_counties, us_states (Data from The New York Times, based on reports from state and local health agencies)
+-- https://github.com/nytimes/covid-19-data (refer README in NYT github for definitions and source citations)
 - Software: Python 3.6.1, Jupyter Notebook 6.0.1 
 
 # Objectives
